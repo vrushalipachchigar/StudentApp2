@@ -5,7 +5,7 @@ const deps = require("./package.json").dependencies;
 
 module.exports = (_, argv) => ({
   output: {
-    publicPath: "https://studapp2.netlify.app/",
+    publicPath: "https://startling-youtiao-8d2d19.netlify.app/",
   },
 
   resolve: {
